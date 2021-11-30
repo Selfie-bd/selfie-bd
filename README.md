@@ -25,7 +25,7 @@
 <a href="https://github.com/selfie-bd"><img alt="selfiebd Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=selfie-bd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-![𝑯𝒊𝒕𝒔](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/selfie-bd/&title=𝑯𝒊𝒕𝒔)   [![telegram badge](https://img.shields.io/badge/Selfiebd-30302f?style=flat&logo=telegram)](https://telegram.dog/selfiebd)  [![telegram badge](https://img.shields.io/badge/Group Dc BOTS-30302f?style=flat&logo=telegram)](https://telegram.dog/groupdcbots)
+![𝑯𝒊𝒕𝒔](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/selfie-bd/&title=𝑯𝒊𝒕𝒔)   [![telegram badge](https://img.shields.io/badge/Selfiebd-30302f?style=flat&logo=telegram)](https://telegram.dog/selfiebd)  [![telegram badge](https://img.shields.io/badge/GroupDcBOTS-30302f?style=flat&logo=telegram)](https://telegram.dog/groupdcbots)
 
 
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
