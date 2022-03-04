@@ -14,3 +14,9 @@
 ## Official Working Project
 
 [![telegram badge](https://img.shields.io/badge/Psycho_Bots-30302f?style=flat&logo=telegram)](https://t.me/Psycho_Bots)  [![telegram badge](https://img.shields.io/badge/GroupDcBOTS-30302f?style=flat&logo=telegram)](https://telegram.dog/groupdcbots) [![telegram badge](https://img.shields.io/badge/ThanimaiSupport-30302f?style=flat&logo=telegram)](https://t.me/thanimaisupport)
+
+## Avs College of Technology
+- 1st Year Student 📚
+- Studing **CSE** 💻
+- Nope Coder 🤓
+- Bot Dev ✌️ [@GroupDcBots](https://t.me/groupdcbots)
